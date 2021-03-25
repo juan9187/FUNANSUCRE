@@ -1,0 +1,64 @@
+header {
+
+  background-image: url("../img/Fondoh.gif");
+	color:white;
+	background-size: 50%;
+}
+
+.color1{
+	background: #0B3861;
+	color:white;
+
+}
+footer{
+
+	 background-image: url("../img/Fondoh.gif");
+	color:white;
+	background-size: 50%;
+}#img1 {
+  width: 220px;
+  height: 140px;
+}
+
+article{
+	
+	text-align: center;
+}
+#ul1{
+	font-family:"verdana";
+	font-size: 16px;
+	text-align:left; 
+}
+aside{
+	background: #F2E9E9;
+}
+#h1{
+	font-family: "verdana"
+	text-align:left;
+}
+#h1t{
+	font-family: "verdana"
+}
+
+body{
+	 margin:0px 0px 0px 0px;
+	 background-image: url("../img/fondob.jpg");
+	
+	background-size: 400%;
+	
+	background-repeat: no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+#txt{
+	
+font-size: x-large
+}
+#por{
+
+	text-align:justify;
+	font-size: 16px;
+}
